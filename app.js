@@ -7,7 +7,7 @@
         'ラーメンしみず',
         'らーめん飛雄馬',
     ];
-    const correct = '逆寝取りシチュ';
+    const correct = '青島食堂';
     
     
     const $questionArea = document.getElementById('js-question');
